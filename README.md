@@ -3,8 +3,7 @@
 Welcome to my portfolio repository! This is a collection of my projects showcasing my skills and experience as a **Backend Developer** with expertise in **Python, Django, Automation, and Data Integration**.
 
 ## 🔗 Live Demo
-[Check out my portfolio](https://milotr.github.io/portfolio/)  
----
+[Check out my portfolio](https://milotr.github.io/portfolio/)
 
 ## 📋 Table of Contents
 - [About Me](#about-me)
