@@ -183,7 +183,7 @@ a:focus {
     margin-top: 0;
     border: 0;
     border-radius: 0;
-    background: #f8f9fa;
+    background: #193549;
 }
 
 @media (min-width: 992px) {
@@ -202,7 +202,7 @@ a:focus {
     }
 
     .navbar .navbar-brand {
-        color: #ffffff;
+        color: #193549;
     }
 
     .navbar.nav-sticky .navbar-brand {
@@ -236,7 +236,7 @@ a:focus {
 @media (max-width: 991.98px) {
     .navbar {
         padding: 15px;
-        background: #ffffff !important;
+        background: #15232d !important;
     }
 
     .navbar .navbar-brand {
@@ -253,6 +253,26 @@ a:focus {
 
     .navbar .dropdown-menu {
         box-shadow: none;
+    }
+
+    .navbar-light .navbar-nav .nav-link,
+    .navbar-light .navbar-nav .nav-link:focus {
+        color: #ffffff;
+    }
+
+    .navbar-light.nav-sticky .navbar-nav .nav-link,
+    .navbar-light.nav-sticky .navbar-nav .nav-link:focus {
+        color: #ffffff;
+    }
+
+    .navbar-light .navbar-nav .nav-link:hover,
+    .navbar-light .navbar-nav .nav-link.active {
+        color: #e6ba16;
+    }
+
+    .navbar-light.nav-sticky .navbar-nav .nav-link:hover,
+    .navbar-light.nav-sticky .navbar-nav .nav-link.active {
+        color: #e6ba16;
     }
 }
 
@@ -738,7 +758,7 @@ a:focus {
     .experience .timeline .timeline-item.left .timeline-text,
     .experience .timeline .timeline-item.right .timeline-text {
         border-right: none;
-        border-left: 5px solid #dddddd;
+        border-left: 5px solid #e6ba16;
     }
 }
 
