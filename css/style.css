@@ -196,6 +196,10 @@ a:focus {
         z-index: 9;
     }
 
+    .btn {
+        color: #ffffff;
+    }
+
     .navbar.nav-sticky {
         padding: 10px 60px;
         background: #15232d !important;
