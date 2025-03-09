@@ -5,6 +5,8 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 ## 🔗 Live Demo
 [Check out my portfolio](https://milotr.github.io/portfolio/)
 
+---
+
 ## 📋 Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
@@ -12,6 +14,7 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
   - [2. AxcessDash — CCH Axcess Dashboard](#2-axcessdash--cch-axcess-dashboard)
   - [3. SnapChart — Live Chart Django Application](#3-snapchart--live-chart-django-application)
   - [4. ExcelFlow BI — Data Processing for Power BI](#4-excelflow-bi--data-processing-for-power-bi)
+  - [5. TexManage — Textile Business Management](#5-texmanage--textile-business-management)
 - [Skills](#skills)
 - [Contact](#contact)
 
@@ -74,6 +77,26 @@ A Python automation tool to download, organize, and prepare Excel files for Powe
 - Data preparation for smooth Power BI integration.  
 **Challenges:** Handling inconsistent file formats.  
 **Results:** Reduced manual workload and seamless Power BI integration.  
+
+---
+
+### 5. TexManage — Textile Business Management
+**Description:**  
+An application for managing customers, orders, and inventory for Vietnamese textile businesses.  
+
+**Tech Stack:** Python, Django, SQLite, Chart.js  
+**My Role:** Backend Developer — *Developed the Django apps and managed the database.*  
+**Key Features:**  
+- Automated order and detailed inventory management.  
+- RESTful API integration with third-party applications.  
+- Dashboard reporting with Chart.js for business overview.  
+**Challenges:**  
+- Handling large datasets and optimizing API performance.  
+- Managing nested URLs and database design for diverse textile types and colors.  
+**Solutions:**  
+- Used caching and optimized SQL queries.  
+**Results:**  
+- Reduced order processing time by 30%.  
 
 ---
 
