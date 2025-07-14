@@ -2,12 +2,12 @@
 
 Welcome to my portfolio repository! This is a collection of my projects showcasing my skills and experience as a **Backend Developer** with expertise in **Python, Django, Automation, and Data Integration**.
 
-## 🔗 Live Demo
+🔗 Live Demo
 [Check out my portfolio](https://milotr.github.io/portfolio/)
 
 ---
 
-## 📋 Table of Contents
+📋 Table of Contents
 - [About Me](#about-me)
 - [Projects](#projects)
   - [1. MediFlow — Medical Records Automation](#1-mediflow--medical-records-automation)
@@ -20,12 +20,12 @@ Welcome to my portfolio repository! This is a collection of my projects showcasi
 
 ---
 
-## 👨‍💻 About Me
+👨‍💻 About Me
 I am a Backend Developer specializing in **Python and Django** with experience in automation, API integration, and data processing. My portfolio highlights a range of projects from web applications to automation tools, emphasizing clean code, efficiency, and scalability.
 
 ---
 
-## 🛠️ Projects
+🛠️ Projects
 
 ### 1. MediFlow — Medical Records Automation
 **Description:**  
@@ -100,7 +100,7 @@ An application for managing customers, orders, and inventory for Vietnamese text
 
 ---
 
-## 🚀 Skills
+🚀 Skills
 - **Languages:** Python, JavaScript  
 - **Frameworks:** Django, Django Rest Framework  
 - **Databases:** SQLite, PostgreSQL, MongoDB  
@@ -109,7 +109,7 @@ An application for managing customers, orders, and inventory for Vietnamese text
 
 ---
 
-## 📞 Contact
+📞 Contact
 - **Email:** [minhlong010122@gmail.com](mailto:minhlong010122@gmail.com)  
 - **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)  
 
